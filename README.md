@@ -6,7 +6,7 @@
 	-What is React ? 
 	-Why React? 
 	-What is the difference between building a website using React or using vanilla JS ?
-	-virtual dom 
+	-What is virtual dom 
 	-The history of React ? 
 	-Examples of apps that are using React ? 
 	-What is the component ? 
