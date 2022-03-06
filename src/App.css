@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+.continer {
+  padding: 5%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 2%;
+}
+.first-continer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.details-continer {
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Link {
+  color: rgb(42, 80, 202) !important;
+  text-decoration: none;
+}
+.Link:hover {
+  color: rgb(124, 123, 123) !important;
+  text-decoration: none;
+}
