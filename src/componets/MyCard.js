@@ -10,6 +10,7 @@ export default function MyCard(props) {
         <Card.Img variant="top" src={Character.image} />
         <Card.Body>
           <Card.Title>{Character.name}</Card.Title>
+          <Card.Title>Stats: {Character.status}</Card.Title>
         </Card.Body>
       </Card>
     </Link>
